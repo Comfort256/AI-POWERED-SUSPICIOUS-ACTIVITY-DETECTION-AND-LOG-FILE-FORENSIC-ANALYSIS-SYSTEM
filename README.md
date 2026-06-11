@@ -1,0 +1,2 @@
+# AI-POWERED-SUSPICIOUS-ACTIVITY-DETECTION-AND-LOG-FILE-FORENSIC-ANALYSIS-SYSTEM
+Artificial intelligence and machine learning provide new opportunities for intelligent threat detection. The rapid evolution of cyber threats has increased the need for advanced monitoring systems capable of identifying malicious activities automatically. Organizations depend on intelligent forensic systems to improve cybersecurity operations, 
